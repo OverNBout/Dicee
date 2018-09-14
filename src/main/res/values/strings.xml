@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Dicee</string>
+    <string name="botao_dado">Roll</string>
+</resources>
